@@ -1,2 +1,2 @@
 # netherweb
-Minecraft için modern web sunucusu
+Minecraft sunucuları için modern web sunucusu
